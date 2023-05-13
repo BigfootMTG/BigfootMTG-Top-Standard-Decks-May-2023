@@ -1,0 +1,29 @@
+Deck
+1 Mountain
+9 Plains
+3 Etali, Primal Conqueror
+4 Ambitious Farmhand
+4 Wedding Announcement
+3 Ossification
+4 Reckoner Bankbuster
+1 Destroy Evil
+2 Loran of the Third Path
+3 The Wandering Emperor
+2 Roadside Reliquary
+4 Fable of the Mirror-Breaker
+3 Serra Paragon
+3 Cabaretti Courtyard
+4 Jetmir's Garden
+4 Sundown Pass
+2 Battlefield Forge
+4 Lay Down Arms
+
+Sideboard
+4 Anointed Peacekeeper
+3 Surge of Salvation
+2 Unlicensed Hearse
+1 The Eternal Wanderer
+1 Destroy Evil
+1 Ossification
+1 Loran of the Third Path
+2 Cathar Commando

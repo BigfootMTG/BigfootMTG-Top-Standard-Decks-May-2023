@@ -1,0 +1,30 @@
+Deck
+1 Swamp
+4 Ziatora's Proving Ground
+4 Jetmir's Garden
+2 Etali, Primal Conqueror
+4 Archangel of Wrath
+2 Sunfall
+2 Reckoner Bankbuster
+1 Boseiju, Who Endures
+4 Ossification
+3 Plains
+4 Forest
+4 Herd Migration
+4 Topiary Stomper
+4 Atraxa, Grand Unifier
+4 Spara's Headquarters
+4 Invasion of Zendikar
+2 Mirrex
+2 Mountain
+4 Leyline Binding
+1 Island
+
+Sideboard
+4 Tyrranax Rex
+4 Lithomantic Barrage
+2 Unlicensed Hearse
+1 Sunfall
+1 Mirrex
+2 Vanquish the Horde
+1 Temporary Lockdown

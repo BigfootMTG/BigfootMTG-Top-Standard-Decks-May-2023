@@ -1,0 +1,40 @@
+Deck
+2 Corpse Appraiser
+2 Etali, Primal Conqueror
+1 Shipwreck Marsh
+2 Darkslick Shores
+4 Stormcarved Coast
+2 Swamp
+1 Otawara, Soaring City
+2 Atraxa, Grand Unifier
+1 Sokenzan, Crucible of Defiance
+4 Xander's Lounge
+3 Invasion of Amonkhet
+1 Abrade
+3 Go for the Throat
+1 Underground River
+4 Blackcleave Cliffs
+1 Mountain
+2 Nahiri's Warcrafting
+3 Cut Down
+1 Sheoldred's Edict
+1 Shivan Reef
+4 Bloodtithe Harvester
+4 The Cruelty of Gix
+1 Brotherhood's End
+1 Haunted Ridge
+1 Takenuma, Abandoned Mire
+2 Reckoner Bankbuster
+2 Sulfurous Springs
+4 Fable of the Mirror-Breaker
+
+Sideboard
+1 Abrade
+3 Duress
+1 Go for the Throat
+1 Brotherhood's End
+2 Disdainful Stroke
+2 Phyrexian Fleshgorger
+2 Halo Forager
+1 Gix's Command
+2 Lithomantic Barrage
